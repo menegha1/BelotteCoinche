@@ -1,0 +1,338 @@
+# depslib dependency file v1.0
+1590515311 source:c:\users\djedje\documents\cb\projet ifb - coinche\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1590515344 c:\users\djedje\documents\cb\projet ifb - coinche\fonctions.h
+
+1590515416 source:c:\users\djedje\documents\cb\projet ifb - coinche\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590600286 source:c:\users\djedje\documents\cb\version de mathéo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1590600275 c:\users\djedje\documents\cb\version de mathéo\fonctions.h
+
+1590599160 source:c:\users\djedje\documents\cb\version de mathéo\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590620630 source:c:\users\mbern\desktop\projet\projet v-jeremy (v-mathéo avec qq amélio)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1590620630 c:\users\mbern\desktop\projet\projet v-jeremy (v-mathéo avec qq amélio)\fonctions.h
+
+1590748193 source:c:\users\mbern\desktop\projet\projet v_mathéo 2805 00h22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1590621169 c:\users\mbern\desktop\projet\projet v_mathéo 2805 00h22\fonctions.h
+
+1590979002 source:c:\users\mbern\desktop\projet\projet v_mathéo 3005\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590621169 c:\users\mbern\desktop\projet\projet v_mathéo 3005\fonctions.h
+
+1590979085 source:c:\users\mbern\desktop\projet\projet v_mathéo 3005\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591039858 source:c:\users\djedje\documents\cb\mathéo annonce carré fini 0106\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591035265 c:\users\djedje\documents\cb\mathéo annonce carré fini 0106\fonctions.h
+
+1591039873 source:c:\users\djedje\documents\cb\mathéo annonce carré fini 0106\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591063738 source:c:\users\mbern\desktop\projet\jérémy 0106 2105\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591053000 c:\users\mbern\desktop\projet\jérémy 0106 2105\fonctions.h
+
+1591063580 source:c:\users\mbern\desktop\projet\jérémy 0106 2105\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591282935 source:c:\users\djedje\documents\cb\jérémy 0406 1112\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591065070 c:\users\djedje\documents\cb\jérémy 0406 1112\fonctions.h
+
+1591281816 source:c:\users\djedje\documents\cb\jérémy 0406 1112\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591289304 source:c:\users\meneg\onedrive\documents\projet_ifb_général\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591289078 c:\users\meneg\onedrive\documents\projet_ifb_général\fonctions.h
+
+1591291024 source:c:\users\meneg\onedrive\documents\projet_ifb_général\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591636824 source:c:\users\djedje\documents\cb\doryan 0406 18h20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591621187 c:\users\djedje\documents\cb\doryan 0406 18h20\fonctions.h
+
+1591636613 source:c:\users\djedje\documents\cb\doryan 0406 18h20\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591400863 source:c:\users\mbern\desktop\projet\jérémy 0406 21h\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591363860 c:\users\mbern\desktop\projet\jérémy 0406 21h\fonctions.h
+
+1591400232 source:c:\users\mbern\desktop\projet\jérémy 0406 21h\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591446542 source:c:\users\mbern\desktop\projet\mathéo 0606 1h00\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591363860 c:\users\mbern\desktop\projet\mathéo 0606 1h00\fonctions.h
+
+1591447813 source:c:\users\mbern\desktop\projet\mathéo 0606 1h00\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591794760 source:c:\users\djedje\documents\cb\last version 0806 19h\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591794505 c:\users\djedje\documents\cb\last version 0806 19h\fonctions.h
+
+1591794966 source:c:\users\djedje\documents\cb\last version 0806 19h\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591803459 source:c:\users\mbern\desktop\projet\jérémy 15h11 1006\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591793340 c:\users\mbern\desktop\projet\jérémy 15h11 1006\fonctions.h
+
+1591801773 source:c:\users\mbern\desktop\projet\jérémy 15h11 1006\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591798920 source:c:\users\meneg\onedrive\documents\mathéo 1006 17h\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591806900 c:\users\meneg\onedrive\documents\mathéo 1006 17h\fonctions.h
+
+1591806890 source:c:\users\meneg\onedrive\documents\mathéo 1006 17h\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591825644 source:c:\users\meneg\onedrive\documents\doryan 1006 17h40\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591825804 c:\users\meneg\onedrive\documents\doryan 1006 17h40\fonctions.h
+
+1591825732 source:c:\users\meneg\onedrive\documents\doryan 1006 17h40\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591874579 source:c:\users\djedje\documents\cb\projet\doryan 1006 22h50 ( version avec score final)\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591874442 c:\users\djedje\documents\cb\projet\doryan 1006 22h50 ( version avec score final)\fonctions.h
+
+1591873640 source:c:\users\djedje\documents\cb\projet\doryan 1006 22h50 ( version avec score final)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591897155 source:c:\users\meneg\onedrive\documents\tt le monde\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591897214 c:\users\meneg\onedrive\documents\tt le monde\fonctions.h
+
+1591900492 source:c:\users\meneg\onedrive\documents\tt le monde\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591919105 source:c:\users\meneg\onedrive\documents\tt le monde 22h22\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591917687 c:\users\meneg\onedrive\documents\tt le monde 22h22\fonctions.h
+
+1591919117 source:c:\users\meneg\onedrive\documents\tt le monde 22h22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591955700 source:c:\users\mbern\desktop\projet\tt le monde presque fini\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591955700 c:\users\mbern\desktop\projet\tt le monde presque fini\fonctions.h
+
+1591955700 source:c:\users\mbern\desktop\projet\tt le monde presque fini\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1591956780 source:c:\users\meneg\onedrive\documents\tt le monde presque fini\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"fonctions.h"
+
+1591972780 c:\users\meneg\onedrive\documents\tt le monde presque fini\fonctions.h
+
+1591969505 source:c:\users\meneg\onedrive\documents\tt le monde presque fini\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1592060550 source:c:\users\djedje\documents\cb\projet\projet presque fini\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"fonctions.h"
+
+1592054348 c:\users\djedje\documents\cb\projet\projet presque fini\fonctions.h
+
+1592059082 source:c:\users\djedje\documents\cb\projet\projet presque fini\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1592063293 source:c:\users\meneg\onedrive\documents\projet presque fini\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"fonctions.h"
+
+1592063274 c:\users\meneg\onedrive\documents\projet presque fini\fonctions.h
+
+1592067321 source:c:\users\meneg\onedrive\documents\projet presque fini\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1592081587 source:c:\users\meneg\onedrive\documents\last version\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1592067900 c:\users\meneg\onedrive\documents\last version\fonctions.h
+
+1592067900 source:c:\users\meneg\onedrive\documents\last version\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"fonctions.h"
+
+1592138700 source:c:\users\meneg\onedrive\documents\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"fonctions.h"
+
+1592138700 c:\users\meneg\onedrive\documents\projet\fonctions.h
+
